@@ -3,7 +3,7 @@
 Plugin Name: SyntaxHighlighter Evolved: H Brush
 Description: Adds support for the H language to the SyntaxHighlighter Evolved plugin. As used in mobile app "Hacked" (www.hackedapp.com). Plugin includes Hackpad theme to make code samples look more like the Hackpad UI from the app itself.
 Author: Andrew Johns
-Version: 0.0.1
+Version: 0.0.2
 Author URI: http://andrewjohns.net
 */
  
@@ -19,7 +19,7 @@ wp_register_style(
         'syntaxhighlighter-theme-hackpad',
         plugins_url( 'styles/shBrushHackpad.css', __FILE__),
         array( 'syntaxhighlighter-core' ),
-        '0.0.1'
+        '0.0.2'
     );
 }
  

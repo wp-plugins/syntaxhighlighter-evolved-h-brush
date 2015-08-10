@@ -3,7 +3,7 @@
  * http://andrewjohns.net
  *
  * @version
- * 0.0.1 (August 6th 2015)
+ * 0.0.2 (August 6th 2015)
  * 
  * @copyright
  * Copyright (C) 2015 Andrew Johns.
@@ -74,7 +74,7 @@
   color: #008000 !important;
 }
 .syntaxhighlighter .string, .syntaxhighlighter .string a {
-  color: #1dc116 !important;
+  color: #d1edff !important;
 }
 .syntaxhighlighter .keyword {
   color: #b43d3d !important;

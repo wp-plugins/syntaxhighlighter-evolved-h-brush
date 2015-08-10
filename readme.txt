@@ -38,12 +38,19 @@ You can see it in action on this blog post: [Hacked Android App Coding Solutions
 // some H code will go in here.
 [/code]`
 
+= Did you know the colours are slightly off? =
+
+Yes, I might ask the devs at some point for the exact hex codes and update them, but for now it's a close approximation.
+
 == Screenshots ==
 
 1. Example code using Hackpad theme
 2. Example code using default theme
 
 == Changelog ==
+
+= 0.0.2 =
+* FIXED: string values were green, not white.
 
 = 0.0.1 =
 * Beta version
